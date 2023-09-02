@@ -1,6 +1,8 @@
 # Review_Document
 This is AI based web Application which can Review Document
 
+### First you need to update the info.py file and Enter your own Email credential
+
 #### After Clone This project you need to run the following Command
 _pip install -r requirement.txt_
 
